@@ -1,3 +1,10 @@
+# THIS IS NOT THE OFFICIAL REPOSITORY
+
+This repository has only been made to support arm architectures for this project, linking it to a different docker hub entry. <br>
+The docker-compose.yml file in this repository has been modified to accomodate the linked docker image.
+
+**For issues and pull request, please refer to the [original repository](https://github.com/JordanKnott/taskcafe).**
+
 <p align="center">
  <img width="450px" src="./.github/taskcafe-full.png" align="center" alt="Taskcafe logo" />
 </p>
